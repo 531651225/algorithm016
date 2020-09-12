@@ -17,7 +17,7 @@
 
 //时间复杂度 O(n)
 //空间复杂度 O(1)
-class Solution {
+class MoveZeroes {
 
   public void moveZeroes(int[] nums) {
     int len = nums.length;
