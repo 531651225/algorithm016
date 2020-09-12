@@ -33,4 +33,5 @@ class Solution {
     }
   }
 }
-//leetcode submit region end(Prohibit modification and deletion)
+//用lastNonZero保存当前非0应该放的位置
+//注意不管lastNonZero是否等于i,都要lastNonZero都要++
