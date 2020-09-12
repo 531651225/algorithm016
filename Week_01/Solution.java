@@ -16,7 +16,7 @@
 
 
 //时间复杂度 O(n)
-// 空间复杂度 O(1)
+//空间复杂度 O(1)
 class Solution {
 
   public void moveZeroes(int[] nums) {
@@ -24,7 +24,7 @@ class Solution {
     int lastNonZero = 0;
     for (int i = 0; i < len; i++) {
       if (nums[i] != 0) {
-        if (nums[i] != nums[lastNonZero]) {
+        if (i != lastNonZero) {
           nums[lastNonZero] = nums[i];
           nums[i] = 0;
         }
