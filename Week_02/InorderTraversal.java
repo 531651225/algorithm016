@@ -29,7 +29,7 @@
 
 //时间复杂度 o(n) 每个节点会被访问一次且仅会被遍历一次
 //空间复杂度 o(n) 空间复杂度取决于栈深度，而栈深度在二叉树为一条链的情况下会达到 O(n) 的级别
-class Solution {
+class InorderTraversal {
   public List<Integer> inorderTraversal(TreeNode root) {
     LinkedList<TreeNode> stack = new LinkedList();
     TreeNode cur = root;
