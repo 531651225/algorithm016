@@ -33,7 +33,7 @@ import javax.swing.tree.TreeNode;
  */
 // 时间复杂度 o(n)
 // 空间复杂度 o(n)
-class Solution {
+class PreorderTraversal {
   public List<Integer> preorderTraversal(TreeNode root) {
     List<Integer> res = new ArrayList();
     if (root == null) {
