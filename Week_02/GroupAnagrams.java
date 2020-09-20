@@ -20,8 +20,6 @@
 // 👍 470 👎 0
 
 
-import com.sun.org.apache.bcel.internal.generic.AALOAD;
-import java.util.Arrays;
 import java.util.HashMap;
 
 //leetcode submit region begin(Prohibit modification and deletion)
