@@ -27,8 +27,8 @@ import java.util.HashMap;
 //leetcode submit region begin(Prohibit modification and deletion)
 class GroupAnagrams {
 
-  //时间复杂度：O(NKlog⁡K)其中 N 是 strs 的长度，而 K 是 strs 中字符串的最大长度。当我们遍历每个字符串时，外部循环具有的复杂度为 O(N)。然后，我们在 O(KlogK) 的时间内对每个字符串排序。
-  //空间复杂度：O(NK)，排序存储在 ans 中的全部信息内容。
+  //时间复杂度：O(NKlogK)其中 N 是 strs 的长度，而 K 是 strs 中字符串的最大长度。当我们遍历每个字符串时，外部循环具有的复杂度为 O(N)。然后，我们在 O(KlogK) 的时间内对每个字符串排序。
+  //空间复杂度：O(NK)，排序存储在 dic 中的全部信息内容。
 //  public List<List<String>> groupAnagrams(String[] strs) {
 //    List<List<String>> res = new ArrayList();
 //    if (strs == null || strs.length ==0) {
