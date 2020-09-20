@@ -43,30 +43,30 @@ class UglyNumber {
     return dp[n - 1];
   }
 
-  // 时间复杂度 o(n)
-  // 空间复杂度 o(nlogn)
+  // 时间复杂度 o(nlogn) 差不多每个元素都会放入que,每次que的操作的复杂到是logn 总体是nlogn
+  // 空间复杂度 o(n)
   //小根堆
-//    public int nthUglyNumber(int n) {
-//        int count = 0;
-//        PriorityQueue<Long> que = new PriorityQueue(new Comparator<Long>(){
-//            @Override
-//            public int compare(Long n1, Long n2){
-//                return n1.compareTo(n2);
-//            }
-//        });
-//        int [] nums= new int[] {2, 3, 5};
-//        que.offer(1L);
-//        while(!que.isEmpty()) {
-//            long cur = que.poll();
-//            if (count++ == n - 1) return (int) cur;
-//            for (int num : nums) {
-//                if (! que.contains(num * cur)) {
-//                    que.offer(num * cur);
-//                }
-//            }
-//        }
-//        return -1;
-//    }
+    public int nthUglyNumber(int n) {
+        int count = 0;
+        PriorityQueue<Long> que = new PriorityQueue(new Comparator<Long>(){
+            @Override
+            public int compare(Long n1, Long n2){
+                return n1.compareTo(n2);
+            }
+        });
+        int [] nums= new int[] {2, 3, 5};
+        que.offer(1L);
+        while(!que.isEmpty()) {
+            long cur = que.poll();
+            if (count++ == n - 1) return (int) cur;
+            for (int num : nums) {
+                if (! que.contains(num * cur)) {
+                    que.offer(num * cur);
+                }
+            }
+        }
+        return -1;
+    }
 
 }
 //leetcode submit region end(Prohibit modification and deletion)
