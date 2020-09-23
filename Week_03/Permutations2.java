@@ -23,8 +23,6 @@ import java.util.HashSet;
 class Permutations2 {
 
   List<List<Integer>> res = new ArrayList();
-  HashSet<List<Integer>> set = new HashSet<>();
-
   public List<List<Integer>> permuteUnique(int[] nums) {
     boolean[] used = new boolean[nums.length];
     Arrays.sort(nums);
