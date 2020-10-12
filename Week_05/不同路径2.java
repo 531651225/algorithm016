@@ -30,7 +30,7 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class 不同路径2 {
 
   public int uniquePathsWithObstacles(int[][] obstacleGrid) {
     int m = obstacleGrid.length, n = obstacleGrid[0].length;
