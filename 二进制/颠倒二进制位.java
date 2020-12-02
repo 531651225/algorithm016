@@ -41,8 +41,8 @@ public class 颠倒二进制位 {
   public int reverseBits(int n) {
     int ans = 0;
     for (int i = 0; i < 32; i++) {
-      ans = ans << 1 | (n & 1);
-      n = n >> 1;
+      ans = (ans << 1) | n & 1; //res 左移一位空出位置,把得到的最低位加过来
+      n = (n >> 1);//原数字右移一位去掉已经处理过的最低位
     }
     return ans;
   }
