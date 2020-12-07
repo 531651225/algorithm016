@@ -20,4 +20,14 @@
 - [191. 位1的个数](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E8%BF%9B%E5%88%B6/%E4%BD%8D1%E7%9A%84%E4%B8%AA%E6%95%B0.java)
 - [338. 比特位计数](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E8%BF%9B%E5%88%B6/%E6%AF%94%E7%89%B9%E4%BD%8D%E8%AE%A1%E6%95%B0.java)
 
+#### 回溯 - [知识点](http://note.youdao.com/s/VmAFmliA)
+- [78. 子集](https://github.com/531651225/algorithm016/blob/master/%E5%9B%9E%E6%BA%AF/%E5%AD%90%E9%9B%86.java)
+- [47. 全排列 II](https://github.com/531651225/algorithm016/blob/master/%E5%9B%9E%E6%BA%AF/%E5%85%A8%E6%8E%92%E5%88%972.java)
+- [77. 组合](https://github.com/531651225/algorithm016/blob/master/%E5%9B%9E%E6%BA%AF/%E7%BB%84%E5%90%88.java)
+- [37. 解数独](https://github.com/531651225/algorithm016/blob/master/%E5%9B%9E%E6%BA%AF/%E8%A7%A3%E6%95%B0%E7%8B%AC.java)
+- [51. N 皇后](https://github.com/531651225/algorithm016/blob/master/%E5%9B%9E%E6%BA%AF/N%E7%9A%87%E5%90%8E.java)
+- [52. N 皇后II](https://github.com/531651225/algorithm016/blob/master/%E5%9B%9E%E6%BA%AF/N%E7%9A%87%E5%90%8E2.java)
+- [46. 全排列](https://github.com/531651225/algorithm016/blob/master/%E5%9B%9E%E6%BA%AF/%E5%85%A8%E6%8E%92%E5%88%97.java)
+
+
 
