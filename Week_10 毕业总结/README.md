@@ -37,6 +37,23 @@
 - [127. 单词接龙](https://github.com/531651225/algorithm016/blob/master/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2%E5%92%8C%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99.java)
 - [127. 单词接龙 II](https://github.com/531651225/algorithm016/blob/master/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2%E5%92%8C%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%992.java)
 
+#### 贪心 - [知识点](http://note.youdao.com/s/B2hCkHPs)
+
+
+#### 二分查找 - [知识点](http://note.youdao.com/s/WvkkFZz1)
+- [69. x 的平方根](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/x%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.java)
+- [367. 有效的完全平方数](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/%E6%9C%89%E6%95%88%E7%9A%84%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.java)
+- [33. 搜索旋转排序数组](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.java)
+- [81. 搜索旋转排序数组 II](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%842.java)
+- [153. 寻找旋转排序数组中的最小值](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC.java)
+- [154. 寻找旋转排序数组中的最小值 II](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC2.java)
+- [74. 搜索二维矩阵](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5.java)
+
+
+
+#### 前缀树 - [知识点](http://note.youdao.com/s/B2hCkHPs)
+
+
 
 
 
