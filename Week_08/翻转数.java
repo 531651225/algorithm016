@@ -44,7 +44,24 @@ class 翻转数 {
         + mergeSort(nums, mid + 1, r);
 
     int[] cache = new int[r - l + 1];
-    int i = l, c = 0, t = l;
+    int i = l, j = mid + 1, count = 0;
+
+    while(i <= mid && j <= r) {
+      cache[count++] = nums[i] > nums[j] ? nums[j] : nums[i];
+
+    }
+    while (i <= mid) {
+      cache[count++] = nums[i];
+    }
+
+    while (j <= r) {
+      cache[count++] = nums[j];
+    }
+
+    for (int n = 0; n < count; n++) {
+      nums[l + n] = temp[n];
+    }
+
     for (int j = mid + 1; j <= r; j++) {
       while(i <= mid && nums[i] <= 2 * (long)nums[j]) i++;
       while(t <= mid && nums[t] <= nums[j]) cache[c++] = nums[t++];
@@ -56,6 +73,20 @@ class 翻转数 {
     System.arraycopy(cache, 0, nums, l, r - l + 1);
     return count;
 
+  }
+
+
+
+  private int mergeSort(int[] nums, int s, int e){
+    if(s>=e) return 0;
+    int mid = s + (e-s)/2;
+    int cnt = mergeSort(nums, s, mid) + mergeSort(nums, mid+1, e);
+    for(int i = s, j = mid+1; i<=mid; i++){
+      while(j<=e && nums[i]/2.0 > nums[j]) j++;
+      cnt += j-(mid+1);
+    }
+    Arrays.sort(nums, s, e+);
+    return cnt;
   }
 }
 //leetcode submit region end(Prohibit modification and deletion)

@@ -11,7 +11,9 @@
 - [爬楼梯](https://github.com/531651225/algorithm016/blob/master/Week_01/ClimbingStairs.java)
 
 #### 二叉树
-- [二叉树中序遍历](https://github.com/531651225/algorithm016/blob/master/Week_02/InorderTraversal.java)
+- [144. 二叉树的前序遍历](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/PreorderTraversal.java)
+- [94. 二叉树的中序遍历](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/InorderTraversal.java)
+- [145. 二叉树的后序遍历](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/PostorderTraversal.java)
 
 
 #### 二进制 - [知识点](http://note.youdao.com/s/c171yjNA)
@@ -52,6 +54,14 @@
 
 #### 字典树 - [知识点](http://note.youdao.com/s/7EYoJg4w)
 - [208. 实现 Trie (前缀树)](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E5%85%B8%E6%A0%91/%E5%AE%9E%E7%8E%B0Trie.java)
+
+#### 排序 - [知识点](http://note.youdao.com/s/GLyvKE3K)
+- [快排](https://github.com/531651225/algorithm016/blob/master/%E6%8E%92%E5%BA%8F/QuickSort.java)
+- [归并](https://github.com/531651225/algorithm016/blob/master/%E6%8E%92%E5%BA%8F/MergeSort.java)
+- [493. 翻转对](https://github.com/531651225/algorithm016/blob/master/%E6%8E%92%E5%BA%8F/%E7%BF%BB%E8%BD%AC%E6%95%B0.java)
+- [1122. 数组的相对排序](https://github.com/531651225/algorithm016/blob/master/%E6%8E%92%E5%BA%8F/%E6%95%B0%E7%BB%84%E7%9A%84%E7%9B%B8%E5%AF%B9%E6%8E%92%E5%BA%8F.java)
+- [56. 合并区间](https://github.com/531651225/algorithm016/blob/master/%E6%8E%92%E5%BA%8F/%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.java)
+
 
 
 
