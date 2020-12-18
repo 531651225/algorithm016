@@ -17,6 +17,8 @@
 - [429. N 叉树的层序遍历](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/N%E5%8F%89%E6%95%B0%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.java)
 - [105. 从前序与中序遍历序列构造二叉树](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.java)
 - [106. 从中序与后序遍历序列构造二叉树](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BB%8E%E4%B8%AD%E5%BA%8F%E4%B8%8E%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.java)
+- [104. 二叉树的最大深度](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.java)
+- [236. 二叉树的最近公共祖先](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.java)
 
 
 #### 二进制 - [知识点](http://note.youdao.com/s/c171yjNA)
@@ -72,6 +74,15 @@
 - [25. K 个一组翻转链表](https://github.com/531651225/algorithm016/blob/master/%E9%93%BE%E8%A1%A8/K%E4%B8%AA%E4%B8%80%E7%BB%84%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.java)
 - [24. 两两交换链表中的节点 ](https://github.com/531651225/algorithm016/blob/master/%E9%93%BE%E8%A1%A8/%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.java)
 - [142. 环形链表 II](https://github.com/531651225/algorithm016/blob/master/%E9%93%BE%E8%A1%A8/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A82.java)
+
+#### Hash表
+- [242. 有效的字母异位词](https://github.com/531651225/algorithm016/blob/master/%E9%93%BE%E8%A1%A8/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A82.java)
+- [49. 字母异位词分组](https://github.com/531651225/algorithm016/blob/master/%E9%93%BE%E8%A1%A8/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A82.java)
+
+
+有效的字母异位词
+Fizz Buzz
+
 
 
 
