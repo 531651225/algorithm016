@@ -44,6 +44,7 @@ class LRUCache {
     cache.remove(key);
     cache.put(key, value);
     return value;
+
   }
 
   public void put(int key, int value) {
