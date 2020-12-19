@@ -80,9 +80,9 @@
 - [242. 有效的字母异位词](https://github.com/531651225/algorithm016/blob/master/%E9%93%BE%E8%A1%A8/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A82.java)
 - [49. 字母异位词分组](https://github.com/531651225/algorithm016/blob/master/%E9%93%BE%E8%A1%A8/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A82.java)
 
+#### LRU
+- [面试题 16.25. LRU 缓存](https://github.com/531651225/algorithm016/blob/master/LRU/LRUCache.java)
 
-有效的字母异位词
-Fizz Buzz
 
 
 
