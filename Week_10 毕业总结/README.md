@@ -19,6 +19,7 @@
 - [106. 从中序与后序遍历序列构造二叉树](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BB%8E%E4%B8%AD%E5%BA%8F%E4%B8%8E%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.java)
 - [104. 二叉树的最大深度](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.java)
 - [236. 二叉树的最近公共祖先](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.java)
+- [剑指 Offer 68 - I. 二叉搜索树的最近公共祖先](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.java)
 
 
 #### 二进制 - [知识点](http://note.youdao.com/s/c171yjNA)
