@@ -8,7 +8,14 @@
 ### 刷题回顾 - 刷题日志及快速回顾 [汇总](https://shimo.im/sheets/PQhjyWPvRkRVDVHH)
 
 #### 数组
-- [爬楼梯](https://github.com/531651225/algorithm016/blob/master/Week_01/ClimbingStairs.java)
+- [189. 旋转数组](https://github.com/531651225/algorithm016/blob/master/%E6%95%B0%E7%BB%84/%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.java)
+- [面试题 10.01. 合并排序的数组](https://github.com/531651225/algorithm016/blob/master/%E6%95%B0%E7%BB%84/%E5%90%88%E5%B9%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.java)
+- [1. 两数之和](https://github.com/531651225/algorithm016/blob/master/%E6%95%B0%E7%BB%84/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.java)
+- [283. 移动零](https://github.com/531651225/algorithm016/blob/master/%E6%95%B0%E7%BB%84/MoveZeroes.java)
+- [11. 盛最多水的容器](https://github.com/531651225/algorithm016/blob/master/%E6%95%B0%E7%BB%84/%E7%9B%9B%E6%B0%B4%E6%9C%80%E5%A4%9A%E7%9A%84%E5%AE%B9%E5%99%A8.java)
+- [42. 接雨水](https://github.com/531651225/algorithm016/blob/master/%E6%95%B0%E7%BB%84/%E6%8E%A5%E9%9B%A8%E6%B0%B4.java)
+
+
 
 #### 二叉树 - [知识点](http://note.youdao.com/s/Stvimhoh)
 - [144. 二叉树的前序遍历](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/PreorderTraversal.java)
@@ -82,6 +89,14 @@
 
 #### LRU
 - [面试题 16.25. LRU 缓存](https://github.com/531651225/algorithm016/blob/master/LRU/LRUCache.java)
+
+
+#### 栈和队列 - [知识点](http://note.youdao.com/s/L5DLRvf9)
+- [641. 设计循环双端队列](https://github.com/531651225/algorithm016/blob/master/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/MyCircularDeque.java)
+- [239. 滑动窗口最大值](https://github.com/531651225/algorithm016/blob/master/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.java)
+- [347. 前 K 个高频元素](https://github.com/531651225/algorithm016/blob/master/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.java)
+- [84. 柱状图中最大的矩形](https://github.com/531651225/algorithm016/blob/master/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2.java)
+
 
 
 
