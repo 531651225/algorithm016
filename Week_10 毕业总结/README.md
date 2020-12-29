@@ -18,7 +18,6 @@
 - [36. 有效的数独](https://github.com/531651225/algorithm016/blob/master/%E6%95%B0%E7%BB%84/%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.java)
 
 
-
 #### 二叉树 - [知识点](http://note.youdao.com/s/Stvimhoh)
 - [144. 二叉树的前序遍历](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/PreorderTraversal.java)
 - [94. 二叉树的中序遍历](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/InorderTraversal.java)
@@ -55,8 +54,6 @@
 - [127. 单词接龙 II](https://github.com/531651225/algorithm016/blob/master/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2%E5%92%8C%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%992.java)
 
 #### 贪心 - [知识点](http://note.youdao.com/s/B2hCkHPs)
-
-
 #### 二分查找 - [知识点](http://note.youdao.com/s/WvkkFZz1)
 - [69. x 的平方根](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/x%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.java)
 - [367. 有效的完全平方数](https://github.com/531651225/algorithm016/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/%E6%9C%89%E6%95%88%E7%9A%84%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.java)
@@ -98,6 +95,17 @@
 - [239. 滑动窗口最大值](https://github.com/531651225/algorithm016/blob/master/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.java)
 - [347. 前 K 个高频元素](https://github.com/531651225/algorithm016/blob/master/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.java)
 - [84. 柱状图中最大的矩形](https://github.com/531651225/algorithm016/blob/master/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2.java)
+#### 字符串 - [知识点](http://note.youdao.com/s/F4byF7kQ)
+- [438. 找到字符串中所有字母异位词](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E6%89%BE%E5%87%BA%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E7%9A%84%E5%BC%82%E4%BD%8D%E8%AF%8D.java)
+- [567. 字符串的排列](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.java)
+- [76. 最小覆盖子串](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.java)
+- [3. 无重复字符的最长子串](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.java)
+- [125. 验证回文串](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.java)
+- [680. 验证回文字符串 Ⅱ](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B22.java)
+- [1021. 删除最外层的括号](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%88%A0%E9%99%A4%E6%9C%80%E5%A4%96%E5%B1%82%E7%9A%84%E6%8B%AC%E5%8F%B7.java)
+- [438. 找到字符串中所有字母异位词]()
+- [438. 找到字符串中所有字母异位词]()
+- [438. 找到字符串中所有字母异位词]()
 
 
 
