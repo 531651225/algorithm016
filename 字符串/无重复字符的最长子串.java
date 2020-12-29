@@ -50,6 +50,9 @@ import java.util.HashMap;
 import java.util.HashMap;
 
 //leetcode submit region begin(Prohibit modification and deletion)
+//滑动窗口
+// 空间复杂度o(n)
+//时间复杂度 o(n)
 class 无重复字符的最长子串 {
   public int lengthOfLongestSubstring(String s) {
     Map<Character, Integer> window = new HashMap<>();
