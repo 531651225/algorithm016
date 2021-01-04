@@ -103,9 +103,18 @@
 - [125. 验证回文串](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.java)
 - [680. 验证回文字符串 Ⅱ](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B22.java)
 - [1021. 删除最外层的括号](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%88%A0%E9%99%A4%E6%9C%80%E5%A4%96%E5%B1%82%E7%9A%84%E6%8B%AC%E5%8F%B7.java)
-- [438. 找到字符串中所有字母异位词]()
-- [438. 找到字符串中所有字母异位词]()
-- [438. 找到字符串中所有字母异位词]()
+- [516. 最长回文子序列](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E5%BA%8F%E5%88%97.java)
+- [91. 解码方法](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E8%A7%A3%E7%A0%81%E6%96%B9%E6%B3%95.java)
+- [5. 最长回文子串](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.java)
+- [72. 编辑距离](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.java)
+- [1143. 最长公共子序列](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.java)
+- [14. 最长公共前缀](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.java)
+- [387. 字符串中的第一个唯一字符](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6.java)
+- [8. 字符串转换整数 (atoi)](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E6%8A%8A%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%88%90%E6%95%B4%E6%95%B0.java)
+- [557. 反转字符串中的单词 III](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D3.java)
+- [205. 同构字符串](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2.java)
+- [917. 仅仅反转字母](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E4%BB%85%E4%BB%85%E5%8F%8D%E8%BD%AC%E5%AD%97%E6%AF%8D.java)
+- [151. 翻转字符串里的单词](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D.java)
 
 
 
