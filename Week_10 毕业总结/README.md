@@ -115,6 +115,8 @@
 - [205. 同构字符串](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2.java)
 - [917. 仅仅反转字母](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E4%BB%85%E4%BB%85%E5%8F%8D%E8%BD%AC%E5%AD%97%E6%AF%8D.java)
 - [151. 翻转字符串里的单词](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D.java)
+- [115. 不同的子序列](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E4%B8%8D%E5%90%8C%E7%9A%84%E5%AD%90%E5%BA%8F%E5%88%97.java)
+- [44. 通配符匹配](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E9%80%9A%E9%85%8D%E7%AC%A6%E5%8C%B9%E9%85%8D.java)
 
 
 
