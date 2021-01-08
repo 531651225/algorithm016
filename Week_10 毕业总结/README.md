@@ -118,6 +118,17 @@
 - [115. 不同的子序列](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E4%B8%8D%E5%90%8C%E7%9A%84%E5%AD%90%E5%BA%8F%E5%88%97.java)
 - [44. 通配符匹配](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E9%80%9A%E9%85%8D%E7%AC%A6%E5%8C%B9%E9%85%8D.java)
 
+#### 动态规划 - [知识点](http://note.youdao.com/s/9TLo8CBL)
+- [300. 最长上升子序列](https://github.com/531651225/algorithm016/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.java)
+- [198. 打家劫舍](https://github.com/531651225/algorithm016/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.java)
+- [213. 打家劫舍 II](https://github.com/531651225/algorithm016/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D2.java)
+- [53. 最大子序和](https://github.com/531651225/algorithm016/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.java)
+- [62. 不同路径](https://github.com/531651225/algorithm016/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.java)
+- [63. 不同路径 II](https://github.com/531651225/algorithm016/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%842.java)
+- [70. 爬楼梯](https://github.com/531651225/algorithm016/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E7%88%AC%E6%A5%BC%E6%A2%AF.java)
+- [64. 最小路径和]()
+
+
 
 
 
