@@ -117,6 +117,7 @@
 - [151. 翻转字符串里的单词](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D.java)
 - [115. 不同的子序列](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E4%B8%8D%E5%90%8C%E7%9A%84%E5%AD%90%E5%BA%8F%E5%88%97.java)
 - [44. 通配符匹配](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E9%80%9A%E9%85%8D%E7%AC%A6%E5%8C%B9%E9%85%8D.java)
+- [43. 字符串相乘](https://github.com/531651225/algorithm016/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E4%B9%98.java)
 
 #### 动态规划 - [知识点](http://note.youdao.com/s/9TLo8CBL)
 - [300. 最长上升子序列](https://github.com/531651225/algorithm016/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.java)
