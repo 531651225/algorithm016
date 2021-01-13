@@ -52,6 +52,7 @@
 - [433. 最小基因变化](https://github.com/531651225/algorithm016/blob/master/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2%E5%92%8C%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/%E6%9C%80%E5%B0%8F%E5%9F%BA%E5%9B%A0%E5%8F%98%E5%8C%96.java)
 - [127. 单词接龙](https://github.com/531651225/algorithm016/blob/master/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2%E5%92%8C%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99.java)
 - [127. 单词接龙 II](https://github.com/531651225/algorithm016/blob/master/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2%E5%92%8C%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%992.java)
+- [547. 省份数量](https://github.com/531651225/algorithm016/blob/master/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2%E5%92%8C%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/%E7%9C%81%E4%BB%BD%E6%95%B0%E9%87%8F.java)
 
 #### 贪心 - [知识点](http://note.youdao.com/s/B2hCkHPs)
 #### 二分查找 - [知识点](http://note.youdao.com/s/WvkkFZz1)
