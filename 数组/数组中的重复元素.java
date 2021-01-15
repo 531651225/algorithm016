@@ -1,27 +1,27 @@
-//给定一个范围在 1 ≤ a[i] ≤ n ( n = 数组大小 ) 的 整型数组，数组中的元素一些出现了两次，另一些只出现一次。
+//给定一个整数数组 a，其中1 ≤ a[i] ≤ n （n为数组长度）, 其中有些元素出现两次而其他元素出现一次。
 //
-// 找到所有在 [1, n] 范围之间没有出现在数组中的数字。
+// 找到所有出现两次的元素。
 //
-// 您能在不使用额外空间且时间复杂度为O(n)的情况下完成这个任务吗? 你可以假定返回的数组不算在额外空间内。
+// 你可以不用到任何额外空间并在O(n)时间复杂度内解决这个问题吗？
 //
-// 示例:
+// 示例：
 //
 //
 //输入:
 //[4,3,2,7,8,2,3,1]
 //
 //输出:
-//[5,6]
+//[2,3]
 //
 // Related Topics 数组
-// 👍 535 👎 0
+// 👍 324 👎 0
 
 
 import java.util.ArrayList;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class 数组这种的重复数据 {
-  public List<Integer> findDisappearedNumbers(int[] nums) {
+class 数组中的重复元素 {
+  public List<Integer> findDuplicates(int[] nums) {
     List<Integer> res = new ArrayList<>();
     for (int i = 0; i < nums.length; i++) {
       while(nums[i] >= 1 && nums[i] <= nums.length && nums[i] != nums[nums[i] - 1]){
@@ -30,7 +30,7 @@ class 数组这种的重复数据 {
     }
     for (int i = 0; i < nums.length; i++) {
       if (nums[i] != i + 1) {
-        res.add(i + 1);
+        res.add(nums[i]);
       }
     }
     return res;
@@ -40,6 +40,6 @@ class 数组这种的重复数据 {
     nums[i] = nums[j];
     nums[j] = temp;
   }
-}
 
+}
 //leetcode submit region end(Prohibit modification and deletion)
