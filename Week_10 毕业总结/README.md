@@ -17,6 +17,7 @@
 - [169. 多数元素](https://github.com/531651225/algorithm016/blob/master/%E6%95%B0%E7%BB%84/%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.java)
 - [36. 有效的数独](https://github.com/531651225/algorithm016/blob/master/%E6%95%B0%E7%BB%84/%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.java)
 - [41. 缺失的第一个正数](https://github.com/531651225/algorithm016/blob/master/%E6%95%B0%E7%BB%84/%E7%BC%BA%E5%A4%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%AD%A3%E6%95%B0.java)
+- [442. 数组中重复的数据](https://github.com/531651225/algorithm016/blob/master/%E6%95%B0%E7%BB%84/%E7%BC%BA%E5%A4%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%AD%A3%E6%95%B0.java)
 
 
 #### 二叉树 - [知识点](http://note.youdao.com/s/Stvimhoh)
