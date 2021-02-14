@@ -18,6 +18,10 @@
 - [36. 有效的数独](https://github.com/531651225/algorithm016/blob/master/%E6%95%B0%E7%BB%84/%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.java)
 - [41. 缺失的第一个正数](https://github.com/531651225/algorithm016/blob/master/%E6%95%B0%E7%BB%84/%E7%BC%BA%E5%A4%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%AD%A3%E6%95%B0.java)
 - [442. 数组中重复的数据](https://github.com/531651225/algorithm016/blob/master/%E6%95%B0%E7%BB%84/%E7%BC%BA%E5%A4%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%AD%A3%E6%95%B0.java)
+- [有序数组的平方](https://github.com/531651225/algorithm016/blob/master/%E6%95%B0%E7%BB%84/%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.java)
+- [按奇偶排序数组2](https://github.com/531651225/algorithm016/blob/master/%E6%95%B0%E7%BB%84/%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%842.java)
+- [山脉数组的顶峰索引](https://github.com/531651225/algorithm016/blob/master/%E6%95%B0%E7%BB%84/%E5%B1%B1%E8%84%89%E6%95%B0%E7%BB%84%E7%9A%84%E9%A1%B6%E5%B3%B0%E7%B4%A2%E5%BC%95.java)
+
 
 
 #### 二叉树 - [知识点](http://note.youdao.com/s/Stvimhoh)
